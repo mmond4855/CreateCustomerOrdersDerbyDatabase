@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri Mar 29 10:15:49 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0169-c9ce-85e7-00000727e750 
+on database directory E:\CIS3306 - Business Programming II\CreateCustomerOrdersDerbyDatabase\CustomerOrders with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Loaded from file:/E:/CIS3306%20-%20Business%20Programming%20II/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=E:\CIS3306 - Business Programming II\CreateCustomerOrdersDerbyDatabase
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 29 10:15:51 EDT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Mar 29 10:15:52 EDT 2019:
+Shutting down instance a816c00e-0169-c9ce-85e7-00000727e750 on database directory E:\CIS3306 - Business Programming II\CreateCustomerOrdersDerbyDatabase\CustomerOrders with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+----------------------------------------------------------------
